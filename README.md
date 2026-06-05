@@ -96,8 +96,6 @@ The lab is a great teaching notebook but had a few rough edges. This project fix
   `peft 0.14.0`). Keep this env separate from the instruction-tuning project,
   which used older pins.
 
-## Credits
 
-Adapted from the IBM Skills Network lab by Joseph Santarcangelo, Ashutosh Sagar,
-Hailey Quach, and Wojciech "Victor" Fulmyk. Dataset:
+Dataset:
 [Dahoas/synthetic-instruct-gptj-pairwise](https://huggingface.co/datasets/Dahoas/synthetic-instruct-gptj-pairwise).
